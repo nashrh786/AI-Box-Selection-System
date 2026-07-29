@@ -44,6 +44,14 @@ The system helps warehouse staff quickly identify the best box by evaluating ava
 AI_Box_Selection/
 │
 ├── config/
+│
+├── screenshots/
+│   ├── home.PNG
+│   ├── create_order.PNG
+│   ├── recommendation.PNG
+│   ├── admin_dashboard.PNG
+│   └── test_output.PNG
+│
 ├── shipping/
 │   ├── migrations/
 │   ├── services/
@@ -51,17 +59,23 @@ AI_Box_Selection/
 │   │   └── box_selector.py
 │   ├── templates/
 │   │   └── shipping/
+│   │       ├── create_order.html
+│   │       └── home.html
 │   ├── admin.py
 │   ├── forms.py
 │   ├── models.py
+│   ├── tests.py
 │   ├── urls.py
-│   ├── views.py
-│   └── tests.py
+│   └── views.py
 │
+├── .gitignore
+├── LEARNINGS.md
 ├── manage.py
-├── db.sqlite3
+├── README.md
 ├── requirements.txt
-└── README.md
+├── TEST_CASES.md
+├── TEST_OUTPUT.md
+└── db.sqlite3
 ```
 
 ---
@@ -71,7 +85,7 @@ AI_Box_Selection/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/nashrh786/AI-Box-Selection-System.git>
 ```
 
 ### 2. Navigate into the project
@@ -230,6 +244,6 @@ python manage.py test
 
 **Nashrh Khan**
 
-Computer Science Engineering Graduate (2025)
+Computer Science Engineering Graduate
 
 Python | Django | Web Development
