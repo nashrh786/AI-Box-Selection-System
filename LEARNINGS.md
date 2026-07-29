@@ -22,7 +22,6 @@ Through this assignment, I gained practical experience in developing a Django-ba
 
 ## Challenges Faced
 
-- Understanding how to structure business logic separately from views.
 - Debugging recommendation logic when the function returned 'None'.
 - Improving the scoring algorithm to balance cost and packing efficiency.
 - Writing meaningful unit tests for the recommendation engine.
