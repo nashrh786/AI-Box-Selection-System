@@ -2,7 +2,7 @@
 
 ## Terminal Screenshot
 
-![Test Output](screenshots/test_output.png)
+![Test Output](screenshots/test_output.PNG)
 
 ## Terminal Output
 
