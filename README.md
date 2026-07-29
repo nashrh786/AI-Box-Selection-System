@@ -210,19 +210,19 @@ python manage.py test
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.PNG)
 
 ### Create Order
 
-![Create Order](screenshots/create_order.png)
+![Create Order](screenshots/create_order.PNG)
 
 ### Recommendation
 
-![Recommendation](screenshots/recommendation.png)
+![Recommendation](screenshots/recommendation.PNG)
 
 ### Django Admin
 
-![Admin](screenshots/admin_dashboard.png)
+![Admin](screenshots/admin_dashboard.PNG)
 
 ---
 
