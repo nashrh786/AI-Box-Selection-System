@@ -6,7 +6,7 @@ Through this assignment, I gained practical experience in developing a Django-ba
 
 - Designed relational database models using Django ORM.
 - Built relationships using ForeignKey between Orders, Products, Order Items, and Shipping Boxes.
-- Implemented a service layer (`box_selector.py`) to separate business logic from views.
+- Implemented a service layer ('box_selector.py') to separate business logic from views.
 - Developed a rule-based recommendation algorithm that evaluates:
   - Product dimensions
   - Product weight
@@ -23,7 +23,7 @@ Through this assignment, I gained practical experience in developing a Django-ba
 ## Challenges Faced
 
 - Understanding how to structure business logic separately from views.
-- Debugging recommendation logic when the function returned `None`.
+- Debugging recommendation logic when the function returned 'None'.
 - Improving the scoring algorithm to balance cost and packing efficiency.
 - Writing meaningful unit tests for the recommendation engine.
 
